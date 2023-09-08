@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640614198 source:c:\users\anatoliko\desktop\socialfriendsproject\socialfriends.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
